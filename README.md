@@ -8,6 +8,7 @@ Ensure you have the following libraries installed before running the code:
 
 - NumPy
 - pandas
+- openpyxl
 - Matplotlib
 - Seaborn
 - Plotly
