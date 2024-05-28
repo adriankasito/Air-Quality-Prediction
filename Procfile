@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run airq.py
+web: sh setup.sh && streamlit run app.py
