@@ -43,7 +43,7 @@ for dirname, _, filenames in os.walk('/Air Quality Prediction'):
 
 
 #A glimpse of the data
-data = pd.read_excel('air-quality.xlsx')
+data = pd.read_excel('air-quality (1).xlsx')
 data.head(4)
 
 
